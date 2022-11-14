@@ -10,9 +10,9 @@
   Desenvolvi projetos de análises, usando power BI.
 
   Estou estudando:
-  - Yellow Belt
-  - Python para análise de Dados.
-  - Engenharia de dados.
+   - Yellow Belt
+   - Python para análise de Dados.
+   - Engenharia de dados.
   
   
   Criei meu site de portifólio.
