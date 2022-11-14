@@ -17,6 +17,6 @@
   
   ## Pessoal
   
-  ### Pai do Post
+  ### Mãe do Post
   
   ![Mulher Maravilha](https://media.giphy.com/media/CWaNQJbsTyarK/giphy.gif)
