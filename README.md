@@ -19,4 +19,4 @@
   
   ### Mãe do Post
   
-  ![Mulher Maravilha] (https://media0.giphy.com/media/CWaNQJbsTyarK/giphy.gif?cid=ecf05e4780fmyek6lgbx73oc0n36zojm9vpjrd3eds4c44zu&rid=giphy.gif&ct=g)
+  ![Mulher Maravilha](https://media0.giphy.com/media/CWaNQJbsTyarK/giphy.gif?cid=ecf05e4780fmyek6lgbx73oc0n36zojm9vpjrd3eds4c44zu&rid=giphy.gif&ct=g)
