@@ -1,11 +1,10 @@
-<h1> Portifólio Mayla Nascimento <h1>
+## Portifólio Mayla Nascimento
 
   Sou maranhense, técnica em Redes de computadores.
   
   Estou concluindo a graduação de Sistemas de Informação no (Instituto Federal de ciências e Tecnologia do Maranhão (IFMA).
   
   Sou apaixonada pela Área de Dados.
-  
   
   Desenvolvi projetos de análises, usando power BI.
 
